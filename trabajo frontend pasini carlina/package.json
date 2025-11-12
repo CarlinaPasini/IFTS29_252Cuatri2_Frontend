@@ -1,0 +1,14 @@
+
+
+{
+  "name": "tpo2-soluciones-completas",
+  "version": "1.0.0",
+  "description": "Soluciones TPO2 - Strings y Arrays (Node.js)",
+  "type": "module",
+  "scripts": {
+    "start": "node tpo2_soluciones.js"
+  }
+}
+
+
+
